@@ -1,4 +1,4 @@
-This is a sample project students can use during Matthew's Git class.
+This is a regular project meant for non-use during nothing .
 
 Here is an addition by me
 
