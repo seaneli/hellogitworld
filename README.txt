@@ -1,4 +1,4 @@
-This is a regular project meant for non-use during nothing, and you may never overwrite my changes
+This is a regular project meant for non-use during nothing, PERIOD!
 
 Here is an addition by me
 
